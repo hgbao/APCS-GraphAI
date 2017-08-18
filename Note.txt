@@ -1,0 +1,9 @@
+DEMO CODE OF JUNG (Google)
+- EdgeLabelDemo xref - Jung - SourceForge
+
+UPGRADABLE
+- Multiple tabs
+- Multiple languages
+- Directed graph
+- Using JSON to save and open
+- Recently projects
